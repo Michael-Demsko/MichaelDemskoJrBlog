@@ -1,0 +1,13 @@
+---
+title: "About this blog"
+description: |
+  Some additional details about the blog
+  
+## Be sure to include
+## Twitter, GitHub, Spotify, BandCamp, LinkedIn, Instagram
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

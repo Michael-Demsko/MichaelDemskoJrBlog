@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2021-07-10-getting-started-on-your-data-science-journey/",
+    "title": "Getting Started on Your Data Science Journey",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-07-10",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-07-10T19:48:36+00:00",
+    "input_file": "getting-started-on-your-data-science-journey.knit.md"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Michael Demsko Jr",
+    "description": "Welcome to our new blog, Michael Demsko Jr. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-06-21",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-21T11:35:52+00:00",
+    "input_file": {}
+  }
+]

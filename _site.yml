@@ -1,0 +1,28 @@
+name: "DistillBlog"
+title: "Michael Demsko Jr"
+description: |
+  Insert Clever Description Here
+base_url: www.michaeldemsko.com
+navbar:li
+  logo: 
+ ## insert logo file .png 
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+## - text: "Portfolio"
+##   href: portfolio.html
+## ## subpages or section headers for: "Data Science", "Design", "Writing"
+## ## subapages or section headers within each of the above 
+## - text: "Blog"
+##   href: blog.html
+## ## Will contain all written pieces, video content 
+## - text: "Playlists"
+##   href: playlists.html
+## - text: "Podcast"
+##   href: podcast.html
+## - text: "Reading List"
+##   href: readinglist.html
+output: distill::distill_article
+
