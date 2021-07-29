@@ -25,4 +25,4 @@ navbar:li
 ## - text: "Reading List"
 ##   href: readinglist.html
 output: distill::distill_article
-
+output_dir: "MichaelDemskoJrBlog"
